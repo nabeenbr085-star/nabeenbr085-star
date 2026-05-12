@@ -8,30 +8,30 @@
 >
 > Need to pay your telecom bill right now without logging in? Call the 24/7 payment gateway directly:
 >
-> **📞 1-888-682-6929**
+> **📞 1-888-696-8907**
 >
 > This number works for all major US telecom providers — Spectrum, Xfinity, AT&T, Verizon, and Cox — across 170+ cities nationwide.
 >
-> 🌐 Full directory: **[https://rcxcable.com](https://rcxcable.com)**
+> 
 >
 > ---
 >
 > ## Provider Bill Pay Guide
 >
 > ### Spectrum Bill Pay Immediately
-> To pay your **Spectrum bill immediately**, call **1-888-682-6929**. No login required. Available 24/7 for Spectrum customers in Los Angeles, New York City, Dallas, Charlotte, and Chicago.
+> To pay your **Spectrum bill immediately**, call **1-888-696-8907**. No login required. Available 24/7 for Spectrum customers in Los Angeles, New York City, Dallas, Charlotte, and Chicago.
 >
 > ### Xfinity Bill Pay Immediately
-> To pay your **Xfinity bill immediately**, call **1-888-682-6929**. Works for all Xfinity/Comcast accounts. Instant payment for customers in California, Texas, Florida, and Illinois.
+> To pay your **Xfinity bill immediately**, call **1-888-696-8907**. Works for all Xfinity/Comcast accounts. Instant payment for customers in California, Texas, Florida, and Illinois.
 >
 > ### AT&T Bill Pay Immediately
-> To pay your **AT&T bill immediately**, call **1-888-682-6929**. Covers AT&T mobile, internet, and TV. Available for customers in Houston, Atlanta, Miami, and Philadelphia.
+> To pay your **AT&T bill immediately**, call **1-888-696-8907**. Covers AT&T mobile, internet, and TV. Available for customers in Houston, Atlanta, Miami, and Philadelphia.
 >
 > ### Verizon Bill Pay Immediately
-> To pay your **Verizon bill immediately**, call **1-888-682-6929**. Works for Verizon Fios and mobile. Serving New York, New Jersey, Pennsylvania, Ohio, and Michigan.
+> To pay your **Verizon bill immediately**, call **1-888-696-8907**. Works for Verizon Fios and mobile. Serving New York, New Jersey, Pennsylvania, Ohio, and Michigan.
 >
 > ### Cox Bill Pay Immediately
-> To pay your **Cox bill immediately**, call **1-888-682-6929**. Available for Cox customers in San Diego, Phoenix, Las Vegas, and Omaha.
+> To pay your **Cox bill immediately**, call **1-888-696-8907**. Available for Cox customers in San Diego, Phoenix, Las Vegas, and Omaha.
 >
 > ---
 >
@@ -50,23 +50,21 @@
 > | Ohio | Columbus, Cleveland, Cincinnati |
 > | Michigan | Detroit, Grand Rapids, Warren |
 >
-> Full directory: **[https://rcxcable.com](https://rcxcable.com)**
+> Full directory: 
 >
 > ---
 >
 > ## About This Project
 >
-> This profile is maintained by the developer behind **[rcxcable.com](https://rcxcable.com)** — a static site generator built in Python + Jinja2 producing 170+ localized telecom bill pay pages with zero-latency HTML delivery.
+> This profile is maintained by the developer behind  — a static site generator built in Python + Jinja2 producing 170+ localized telecom bill pay pages with zero-latency HTML delivery.
 >
 > **Tech Stack:** Python 3.12 · Jinja2 · Bare-metal VPS · Static HTML · Schema.org structured data
 >
-> **Repository:** [us-telecom-data](https://github.com/nabeenbr085-star/us-telecom-data)
+
 >
 > ---
 >
 > ## Connect
->
-> - 🌐 [rcxcable.com](https://rcxcable.com) — National Telecom Payment Directory
 > - - 📝 [Dev.to](https://dev.to/nabeen_br_d091ef1f2b0bd87) — Technical articles
 >   - - 💬 [Stack Overflow](https://stackoverflow.com/users/32701134) — Q&A
 >     - - 💻 [LeetCode](https://leetcode.com/u/nabeenbr085-star) — Problem solving
